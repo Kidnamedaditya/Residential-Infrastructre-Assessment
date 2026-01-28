@@ -1,0 +1,52 @@
+BUILDING INSPECTION REPORT
+
+Inspection Item: Interior Wall Condition
+Location: Interior wall adjacent to door opening
+Inspection Method: Visual inspection (photographic evidence)
+
+1. OBSERVATION
+
+A diagonal crack was observed on the interior wall surface, extending from the upper wall/ceiling junction downward toward the door frame. The crack appears continuous and varies slightly in width along its length. No surface dampness, peeling paint, or mold growth was observed in the affected area at the time of inspection.
+
+2. INTERPRETATION
+
+The crack pattern and location are commonly associated with structural movement or settlement, particularly around stress concentration points such as door openings. While this type of cracking can sometimes be non-structural, its diagonal orientation warrants further attention.
+
+3. CONDITION ASSESSMENT
+
+Condition Rating: Fair
+
+Immediate Safety Concern: No immediate hazard observed
+
+Potential for Progression: Moderate
+
+The wall remains intact; however, the crack indicates possible underlying movement that could progress if left unaddressed.
+
+4. LIKELY CAUSES (Non-Exhaustive)
+
+Minor foundation settlement
+
+Differential movement between structural members
+
+Shrinkage or thermal movement of wall materials
+
+Previous construction or finishing stress around the doorway
+
+5. RECOMMENDATIONS
+
+Monitoring:
+The crack should be monitored over time (recommended period: 3–6 months) to identify any changes in width, length, or pattern.
+
+Professional Evaluation:
+If the crack shows signs of widening, branching, or if additional cracks appear nearby, a qualified structural engineer or building professional should be consulted for further evaluation.
+
+Repair Guidance:
+Cosmetic repairs (filling and repainting) should be carried out only after confirming that no active structural movement is present.
+
+6. LIMITATIONS
+
+This assessment is based solely on a visual inspection and does not include invasive testing or structural calculations. Hidden conditions may exist that were not visible at the time of inspection.
+
+7. INSPECTOR’S SUMMARY
+
+“A diagonal crack was observed on an interior wall near a door opening. While no immediate safety concern was identified, the crack may be indicative of minor structural movement. Monitoring and further evaluation are recommended before undertaking repairs.”
